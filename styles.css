@@ -172,17 +172,17 @@ body {
 
 /* Tertiary — outlined style (available but unused in index.html) */
 .download-button.tertiary {
-    background-color: #e6e5e0;
+    background-color: transparent;
     color: #333;
-    border: 1px solid #252421;
+    border: 1px solid #aeaa9f;
 }
 
 .download-button.tertiary:hover {
-    background-color: #D8D6CE;
+    background-color: #e5e2d9;
 }
 
 .download-button.tertiary:active {
-    background-color: #D8D6CE;
+    background-color: #e5e2d9;
 }
 
 
